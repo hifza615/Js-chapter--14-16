@@ -118,3 +118,23 @@
 //document.write(devices.pop() + "<br>");
 //document.write(devices.pop() + "<br>");
 //document.write(devices.pop() + "<br>");
+
+//****CHAPTER 14-16****QUESTION 15****//
+//var devices = [];
+//var manufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
+
+//document.write("<select>");
+
+//document.write("<option>" + manufacturers[0] + "</option>");
+
+//document.write("<option>" + manufacturers[1] + "</option>");
+
+//document.write("<option>" + manufacturers[2] + "</option>");
+
+//document.write("<option>" + manufacturers[3] + "</option>");
+
+//document.write("<option>" + manufacturers[4] + "</option>");
+
+//document.write("<option>" + manufacturers[5] + "</option>");
+
+//document.write("</select>");
